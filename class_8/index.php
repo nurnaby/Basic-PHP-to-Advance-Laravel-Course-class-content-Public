@@ -39,8 +39,21 @@ print_r(str_split($string5))."<br>" ;
 // str replsce;
 
 $string6 = "I love javascript php ,I love laravel and php";
-echo str_replace("javascript","java",$string6);
+echo str_replace("javascript","java",$string6)."<br>";
 
+// strtoupper function
+echo str_shuffle("Hello World")."<br>";
+// html htmlspecialchars
+$str = "This is some <b>bold</b> text."."<br>";
+echo $str;
+echo htmlspecialchars($str);
+
+// strip tags()
+echo strip_tags("Hello <b><i>phpworld!</i></b>","<b>");
+// trim function 
+$str = "Hello World!";
+echo $str . "<br>";
+echo trim($str,"Hed!");
 
 
 
