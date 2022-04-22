@@ -29,9 +29,17 @@ $string3 = "I love javascript php ,I love laravel and php  ";
 echo stripos($string3,"PHP")."<br>";
 // substr function()
 $string4 = "I love javascript php ,I love laravel and php";
-echo substr($string4,10);
+echo substr($string4,2,9);
+// str_splist()
+$string5 = "I love javascript php ";
+echo "<pre>";
+print_r(str_split($string5))."<br>" ;
 
 
+// str replsce;
+
+$string6 = "I love javascript php ,I love laravel and php";
+echo str_replace("javascript","java",$string6);
 
 
 
