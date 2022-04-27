@@ -25,6 +25,7 @@ learning php and Larave
 
 </details>
 
+
 <details>
 
 <summary>Click Here </summary>
@@ -32,4 +33,12 @@ learning php and Larave
 * Item 1
 
 </details>
+### Instructions
+
+
+- Fill any inputs you like
+- Copy the code generated in the Code section
+- Create a new repository in your GitHub account with the same name as your GitHub username
+- Add a readme.md file to your new repository
+- Paste the copied code into the readme file and save
 
