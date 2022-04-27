@@ -1,7 +1,10 @@
 # Basic-PHP-to-Advance-Laravel-Course-class-content-Public
 learning php and Larave
+
 ## Class 9 Overview
+
 <details>
+
 <summary>Click Here </summary>
 1. Some essentials things
 - isset, empty, die
@@ -19,4 +22,13 @@ learning php and Larave
 - Item 3
   - Sub Item 1
   - Sub Item 2
+
 </details>
+
+<details>
+
+<summary>Click Here </summary>
+* Item 1
+
+</details>
+
