@@ -7,6 +7,7 @@ learning php and Larave
 
 <summary>Click Here </summary>
 1. Some essentials things
+- Fill any inputs you like
 - isset, empty, die
 - Undefined, empty / flag, null, array variable
 1. Form Handling

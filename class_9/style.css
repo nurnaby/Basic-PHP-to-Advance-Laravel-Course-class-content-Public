@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.one {
+    margin: auto;
+}
+
+h1 {
+    color: red;
+    font-size: 60px;
+    text-align: center;
+}
